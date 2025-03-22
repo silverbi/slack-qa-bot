@@ -1,0 +1,7 @@
+slack_bolt
+slack_sdk
+openai
+pandas
+openpyxl
+python-dotenv
+requests

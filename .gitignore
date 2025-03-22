@@ -1,0 +1,18 @@
+# 가상환경
+venv/
+ENV/
+env/
+
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*.pyo
+*.git
+
+# 환경 변수 파일
+.env
+
+# 엑셀 결과물
+*.xlsx
+
+# mac
